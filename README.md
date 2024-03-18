@@ -2,7 +2,7 @@ A smart room project with ARM STM32 microcontroller.
 
 
 ## Technologies
-- STM32F103C8T6 microcontroller
+- STM32F103C8T6
 - STM32CubeIDE
 - C programming language
 - DS18B20 Temperature Sensor
